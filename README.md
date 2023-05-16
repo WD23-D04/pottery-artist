@@ -59,3 +59,9 @@ https://images.unsplash.com/photo-1612058060757-aa8f7f66e687?ixlib=rb-4.0.3&ixid
 ### _Portrait Bild_
 
 https://images.unsplash.com/photo-1567532939604-b6b5b0db2604?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fHBvcnRyYWl0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60
+
+---
+
+## Vorlage
+
+Nutzt die Vorlage im Folder _designs_ als Orientierung.
